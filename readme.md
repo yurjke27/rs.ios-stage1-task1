@@ -31,7 +31,7 @@ Task 1 состоит из пяти подзадач, которые вам не
  задачу, вам необходимо будет запустить тесты. Для того чтобы запустить тесты неоюходимо 
  выбрать любой доступный симулятор из списка
 
-![Image of Simulator1](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/Simulator1.png)
+![Image of Simulator1](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/Simulator1.png)
 ![Image of Simulator2](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/Simulator2.png)
 
 
