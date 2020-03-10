@@ -37,18 +37,18 @@ Task 1 состоит из пяти подзадач, которые вам не
 
 и нажать ⌘U или через меню Product->Test
 
-![Image of RunTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesRunTests.png)
+![Image of RunTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/RunTests.png)
 
 после того как все отработает вы сможете увидеть детали выполнения по каждой из задач. 
 Если ваше решение верно то тесты отобразятся с зеленым маркером если нет то красным. 
 
-![Image of TestDetails](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesTestDetails.png)
+![Image of TestDetails](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/TestDetails.png)
 
 Если все тесты с зеленым маркером то возрадуйтесь, ваше решение верно.
 
 Все тесты находятся в таргете RSSchool_T1Tests
 
-![Image of UnitTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesUnitTests.png)
+![Image of UnitTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/UnitTests.png)
 
 Если вы пришли к выводу, что выполнили максимум того что могли сделать, то сделайте Submit задачи через 
 https://app.rs.school/
