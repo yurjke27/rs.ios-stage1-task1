@@ -4,7 +4,7 @@ Task 1 состоит из пяти подзадач, которые вам не
 1-вая задача самоя простая, 5-ая наиболее сложная в рамках Task1.
 
 Структура папки Exercises представленна ниже
-![Image of Exercises](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/Exercises.png)
+![Image of Exercises](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/Exercises.png)
 
 ## Детали по каждой задаче вы сможете найти в ниже представленных файлах:
   - T1Array.pdf
@@ -32,23 +32,23 @@ Task 1 состоит из пяти подзадач, которые вам не
  выбрать любой доступный симулятор из списка
 
 ![Image of Simulator1](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/Simulator1.png)
-![Image of Simulator2](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/Simulator2.png)
+![Image of Simulator2](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/images/Simulator2.png)
 
 
 и нажать ⌘U или через меню Product->Test
 
-![Image of RunTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/RunTests.png)
+![Image of RunTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesRunTests.png)
 
 после того как все отработает вы сможете увидеть детали выполнения по каждой из задач. 
 Если ваше решение верно то тесты отобразятся с зеленым маркером если нет то красным. 
 
-![Image of TestDetails](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/TestDetails.png)
+![Image of TestDetails](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesTestDetails.png)
 
 Если все тесты с зеленым маркером то возрадуйтесь, ваше решение верно.
 
 Все тесты находятся в таргете RSSchool_T1Tests
 
-![Image of UnitTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/tree/master/images/UnitTests.png)
+![Image of UnitTests](https://github.com/rolling-scopes-school/rs.ios-stage1-task1/blob/master/imagesUnitTests.png)
 
 Если вы пришли к выводу, что выполнили максимум того что могли сделать, то сделайте Submit задачи через 
 https://app.rs.school/
